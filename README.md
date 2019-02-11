@@ -13,7 +13,7 @@ Clear Chat: https://gyazo.com/5e1bb2ac275b24948cb7ee5a24c0f919
 1. Download this repository
 2. Unzip it into your resource folder
 3. Start it in your server.cfg
-4. Either comment out the Event Handler for _chat:messageEntered_ or put the following sv_chat.lua in [system]/chat/sv_chat.lua
+4. Comment out the Event Handler for _chat:messageEntered_
 5. Edit the cfg.lua for your preference!
 
 # LICENSE

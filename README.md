@@ -2,7 +2,7 @@
 by oMarkez <3
 
 # INFO
-This resource lets admins clear & disable/enable the chat with a command, which is restricted.
+This resource lets admins clear, disable and enable the chat with a command, which is restricted.
 
 Admin Perspective: https://gyazo.com/05bbd9bf143cd7a9ecc9ad25aacca77e
 Player Perspective: https://gyazo.com/3f5b80bb0e39b38449354f09d0eae8ce **(Only the player can see those messages, other players dont see them)**
